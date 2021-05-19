@@ -80,7 +80,7 @@ if (!empty($_SESSION['goods'])) {
           <input type="hidden" name="image" value="<?= $row['image'] ?>">
           <input type="submit" value="レジへ進む">
         </form>
-        <form action="home.php" method="POST" id="cart_form_2">
+        <form action="index.php" method="POST" id="cart_form_2">
           <br>
           <input type="submit" value="買い物を続ける">
         </form>

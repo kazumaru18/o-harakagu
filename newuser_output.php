@@ -23,7 +23,7 @@
 		$stm->execute();
 	?>
 		<h2>お客様情報を登録しました<h2>
-		<form action="home.php" method="post">
+		<form action="index.php" method="post">
 		<div class="button-panel">
 				<input type="submit" class="button" title="Top" value="トップページへ"></input>
 		</div>
