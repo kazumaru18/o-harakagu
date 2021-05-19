@@ -120,6 +120,18 @@
 </div>
 
 <style>
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: montserrat;
+}
+
 #home_list {
   padding: 3%;
 }

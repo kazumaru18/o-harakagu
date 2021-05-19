@@ -66,6 +66,18 @@
 <?php require 'footer.php'; ?> <!-- footer挿入 -->
 
 <style>
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: montserrat;
+}
+
 #history_title {
   margin: 30px 10%;
 }

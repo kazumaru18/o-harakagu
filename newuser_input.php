@@ -39,6 +39,18 @@
 
 
 <style>
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: montserrat;
+}
+
     /* Fonts */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400);
 
